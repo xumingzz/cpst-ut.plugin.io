@@ -9,13 +9,13 @@
    - "version" (required) - version of this plugin. Must match <version>
      in the plugin.xml file.
    -->
-<plugin id="com.codeverse" url="http://tosv.byted.org/obj/codeverse-tos/jetbrain_plugin/Codeverse-2.0.0.15.zip" version="2.0.0.15">
+<plugin id="com.codeverse" url="https://github.com/xumingzz/cpst-ut.plugin.io/blob/main/cpst_ut-0.0.2.003.jar" version="0.0.2.003">
 <name>Codeverse</name>
-<vendor email="ganhaoyu@bytedance.com" url="https://bytedance.feishu.cn/wiki/wikcnJN31UJjZG3pQZI8yKnrLlb">Codeverse</vendor>
+<vendor email="xuming.zz@bytedance.com">Codeverse</vendor>
 <description>
-<![CDATA[ 「Codeverse - 代码生成」以智能代码补全插件形式提供服务，她是一个智能编程助手，能在编码过程中提供整行或整个函数的建议，把你需要的代码片段放在你的指尖，从而帮助你节省时间，保持专注。 <br> <br> ]]>
+<![CDATA[ C&B 单测生成助手 <br> <br> ]]>
 </description>
-<idea-version since-build="212"/>
+<idea-version since-build="221"/>
 </plugin>
 <!--  And so on for other plugins...  -->
 </plugins>
