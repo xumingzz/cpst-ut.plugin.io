@@ -9,9 +9,9 @@
    - "version" (required) - version of this plugin. Must match <version>
      in the plugin.xml file.
    -->
-<plugin id="com.codeverse" url="https://github.com/xumingzz/cpst-ut.plugin.io/blob/main/cpst_ut-0.0.2.003.jar" version="0.0.2.003">
-<name>Codeverse</name>
-<vendor email="xuming.zz@bytedance.com">Codeverse</vendor>
+<plugin id="com.cpst.cpst_ut" url="https://github.com/xumingzz/cpst-ut.plugin.io/blob/main/cpst_ut-0.0.2.003.jar" version="0.0.2.003">
+<name>CPST UT</name>
+<vendor email="xuming.zz@bytedance.com">C&B 单测助手 by xuming.zz</vendor>
 <description>
 <![CDATA[ C&B 单测生成助手 <br> <br> ]]>
 </description>
