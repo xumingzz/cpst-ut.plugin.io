@@ -1,0 +1,21 @@
+<plugins>
+<!-- 
+  Each <plugin> element (required) describes one plugin in the repository.
+  Attributes:
+   - "id" (required) - used by JetBrains IDEs to uniquely identify
+     a plugin. Must match <id> in the plugin.xml file.
+   - "url" (required) - URL to download the plugin JAR/ZIP file.
+     Must be HTTPS.
+   - "version" (required) - version of this plugin. Must match <version>
+     in the plugin.xml file.
+   -->
+<plugin id="com.codeverse" url="http://tosv.byted.org/obj/codeverse-tos/jetbrain_plugin/Codeverse-2.0.0.15.zip" version="2.0.0.15">
+<name>Codeverse</name>
+<vendor email="ganhaoyu@bytedance.com" url="https://bytedance.feishu.cn/wiki/wikcnJN31UJjZG3pQZI8yKnrLlb">Codeverse</vendor>
+<description>
+<![CDATA[ 「Codeverse - 代码生成」以智能代码补全插件形式提供服务，她是一个智能编程助手，能在编码过程中提供整行或整个函数的建议，把你需要的代码片段放在你的指尖，从而帮助你节省时间，保持专注。 <br> <br> ]]>
+</description>
+<idea-version since-build="212"/>
+</plugin>
+<!--  And so on for other plugins...  -->
+</plugins>
